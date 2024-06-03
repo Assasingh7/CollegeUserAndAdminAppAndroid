@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083841490253",
+    "project_id": "college-admin-app-c7668",
+    "storage_bucket": "college-admin-app-c7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083841490253:android:14d4e425770ef96a82db04",
+        "android_client_info": {
+          "package_name": "com.google.collegeadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegpXAlM1y-YZj69NdEZLd8HaBsCjqW9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
